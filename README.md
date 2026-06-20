@@ -31,6 +31,11 @@ Zukünftige Features:
 -Das Spiel wird bereits nebenbei aktiv in GODOT für Browser/Mobile übersetzt, jedoch nimmt dies als Solo-Entwickler viel Zeit in Anspruch, da dies hobbymäßig geschiet.
 
 
+Bei jedem Spiel das gespielt wird, wird eine Stern- sowie eine Totenkopfkarte untergemischt.
+Wird die Totenkopfkarte zwei mal hochgehoben, verliert der Spieler, der die Aktion ausgeführt hat.
+Um beide Karten als ein Paar zu erhalten, muss als erstes der Stern und danach die Totenkopfkarte umgedreht werden!
+
+
 Hier ein paar Ausschnitte aus dem Spiel:
 
 <img width="1920" height="1020" alt="memory_rel_ingame" src="https://github.com/user-attachments/assets/45ca4e86-808c-4a47-9cd0-b961b1dd6e26" />

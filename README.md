@@ -24,10 +24,11 @@ Um beide Karten als ein Paar zu erhalten, muss als erstes der Stern und danach d
 
 
 Hier ein paar Ausschnitte aus dem Spiel:
+<img width="1920" height="1080" alt="ingame_multiplayer" src="https://github.com/user-attachments/assets/3f41a95b-cf85-441d-93b9-2e1371f8664d" />
+<img width="1920" height="1080" alt="ingame" src="https://github.com/user-attachments/assets/e66cf4ab-9c3c-4a9a-892f-b115ab94c295" />
+<img width="1920" height="1080" alt="settings" src="https://github.com/user-attachments/assets/2b7382ce-66b6-460a-845a-ac0b2ebb36f9" />
+<img width="1920" height="1080" alt="main menu" src="https://github.com/user-attachments/assets/30aff688-7114-40d3-8a40-28a755e9513b" />
 
-<img width="1920" height="1020" alt="memory_rel_ingame" src="https://github.com/user-attachments/assets/45ca4e86-808c-4a47-9cd0-b961b1dd6e26" />
-
-<img width="1920" height="1020" alt="memory_rel_main_menu" src="https://github.com/user-attachments/assets/320c75b4-c8e7-4b9e-8c80-d8f0e5145343" />
 
 Komplett in Python mithilfe von Tkinter geschrieben;
 Alle Artworks und Memory-Karten mit Paint gezeichnet;

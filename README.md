@@ -11,7 +11,7 @@ Zukünftige Features:
 
 -Die zusätzlichen Spieldateien werden zukünftig verschlüsselt, sodass das Editieren der Dateien mithilfe diverser IDEs nicht mehr möglich ist
 
--Der LAN-Multiplayer (4 Spieler) sowie der lokale Multiplayer (4 Spieler) mit Nicknamenvergabe und Farbenwahl ist in Arbeit
+-Der LAN-Multiplayer (4 Spieler) ist in Arbeit
 
 
 
